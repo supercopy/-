@@ -1,0 +1,19 @@
+大连理工学院：
+视觉端：OpenMV  语言：micropython
+主控：RT1064
+
+华北电力大学：
+视觉端：香橙派  python语言
+主控：STM32F103ZET6
+
+华中科技大学：
+视觉端：Jetson Nano  语言：C++
+主控：STM32F407ZET6
+
+南京邮电大学：
+视觉端：树莓派  语言：C++
+主控：STM32F411CEU6
+
+上海理工大学：
+视觉端：OpenMV  语言：micropython
+主控：STM32F407VGT6
